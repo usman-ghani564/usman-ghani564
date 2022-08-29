@@ -6,7 +6,7 @@ preview
 
 - 🔭 I’m currently working on [Vertikal RMS](Private Project)
 
-- 🌱 I’m currently learning **NestJs to create Microservices Architecture.**
+- 🌱 I’m currently learning **GoLang to create Microservices Architecture.**
 
 - 💬 Ask me about **React, Node, Flutter, Dart, C++, Java**
 
