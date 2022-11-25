@@ -6,11 +6,11 @@ preview
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman-ghani564" alt="usman-ghani564" /></a> </p>
 
-- 🔭 I’m currently working on [Vertikal RMS](Private Project)[outdated]
+- 🔭 I’m currently working on [HyperTrends](Private Project)
 
 - 🌱 I’m currently learning **GoLang to create Microservices Architecture.**
 
-- 💬 Ask me about **React, Node, Flutter, Dart, C++, Java**
+- 💬 Ask me about **React, Node, NestJs, Dart, C++, Java**
 
 - 📫 How to reach me **usmanghani564@gmail.com**
 
