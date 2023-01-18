@@ -6,7 +6,7 @@ preview
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usman-ghani564" alt="usman-ghani564" /></a> </p>
 
-- 🔭 I’m currently working on [HyperTrends]
+- 🔭 I’m currently working on [HyperTrends](Private Organization)
 
 - 🌱 I’m currently learning **GoLang to create Microservices Architecture.**
 
