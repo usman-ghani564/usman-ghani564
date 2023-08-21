@@ -1,6 +1,6 @@
 preview
 <h1 align="center">Hi 👋, I'm Usman Ghani</h1>
-<h3 align="center">I am a professional Software Engineer with more than 4 years of experience in Web development and many more. I love Biryani and like to do bodybuilding as a hobby.</h3>
+<h3 align="center">I am a professional Software Engineer with more than 3 years of experience in Web development and many more. I love Biryani and like to do bodybuilding as a hobby.</h3>
 
 ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
